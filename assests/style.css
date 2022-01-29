@@ -1088,7 +1088,7 @@ span.swiper-pagination-bullet {
 
 .contact .row .col {
     width: 50%;
-    background: rgb(252, 5, 5);
+    background: rgb(5, 252, 137);
 }
 
 #map {
@@ -1352,14 +1352,14 @@ form button:hover {
 
 .footer .box-container .box h3 {
     font-size: 2.5rem;
-    color: rgb(247, 25, 25);
+    color: rgb(25, 247, 62);
     padding-bottom: 1.5rem;
     font-weight: normal;
 }
 
 .footer .box-container .box p {
     font-size: 1.7rem;
-    color: rgb(233, 18, 18);
+    color: rgb(18, 233, 72);
     padding: 1rem 0;
     text-transform: none;
 }
@@ -1371,7 +1371,7 @@ form button:hover {
 
 .footer .box-container .box a {
     font-size: 1.7rem;
-    color: rgb(240, 20, 20);
+    color: rgb(20, 240, 156);
     padding: .7rem 0;
     display: flex;
 }
@@ -1398,7 +1398,7 @@ form button:hover {
 }
 
 .footer .box-container .box .share a:hover {
-    background: rgb(228, 16, 16);
+    background: rgb(16, 228, 69);
     color: var(--pink);
 }
 
@@ -1407,7 +1407,7 @@ form button:hover {
     text-align: left;
     font-size: 1.5rem;
     font-weight: normal;
-    color: rgb(218, 45, 45);
+    color: rgb(45, 218, 111);
     border-top: .1rem solid #fff3;
 }
 
