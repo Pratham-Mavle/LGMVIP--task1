@@ -21,7 +21,7 @@
 
 *::selection {
     background: var(--purple);
-    color: rgb(247, 18, 18);
+    color: rgb(18, 247, 133);
 }
 
 html {
@@ -36,7 +36,7 @@ html::-webkit-scrollbar {
 }
 
 html::-webkit-scrollbar-track {
-    background: #f3e777;
+    background: #77f388;
 }
 
 html::-webkit-scrollbar-thumb {
@@ -44,7 +44,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 body {
-    background: #f00606;
+    background: #06f019;
 }
 
 section {
@@ -77,13 +77,13 @@ header {
 }
 
 .sticky {
-    background: rgb(255, 5, 5);
+    background: rgb(5, 255, 59);
     padding: 2rem 20rem;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
 }
 
 header .logo {
-    color: rgb(238, 17, 17);
+    color: rgb(17, 238, 116);
     font-weight: 700;
     font-size: 3em;
     text-decoration: none;
