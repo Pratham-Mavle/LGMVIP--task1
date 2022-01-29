@@ -111,7 +111,7 @@ header .navbar li a {
     font-size: 1.5em;
     text-decoration: none;
     text-transform: uppercase;
-    color: #fff;
+    color: rgb(255, 255, 255);
     font-weight: 600;
 }
 
@@ -163,7 +163,7 @@ header .navbar li a:hover::before {
         color: #000;
     }
     header.sticky .navbar li a {
-        color: #fff;
+        color: rgb(30, 235, 47);
     }
     #menu-bar {
         display: initial;
@@ -236,12 +236,12 @@ header .navbar li a:hover::before {
 
 .home .content h2 {
     font-size: 5rem;
-    color: rgb(255, 255, 255);
+    color: rgb(19, 223, 46);
 }
 
 .home .content p {
     font-size: 2rem;
-    color: #fff;
+    color: rgb(40, 224, 117);
 }
 
 .home .content .btn-container {
@@ -286,7 +286,7 @@ header .navbar li a:hover::before {
     width: 1.2rem;
     display: inline-block;
     border-radius: 50%;
-    background: #fff;
+    background: rgb(9, 212, 60);
     opacity: .6;
     cursor: pointer;
     margin: 0 .5rem;
@@ -318,7 +318,7 @@ header .navbar li a:hover::before {
 /* about section starts */
 
 .about {
-    background: #f5faff;
+    background: #087aec;
 }
 
 .about .container {
@@ -378,7 +378,7 @@ header .navbar li a:hover::before {
 }
 
 .about .container .box-container .box:hover {
-    background: rgb(255, 255, 255);
+    background: rgb(10, 221, 28);
     box-shadow: 0 .5rem .8rem rgba(0, 0, 0, 0.3);
     border-radius: .5rem;
 }
@@ -393,7 +393,7 @@ header .navbar li a:hover::before {
     justify-content: center;
     align-items: center;
     font-size: 4rem;
-    color: #fff;
+    color: rgb(16, 223, 119);
 }
 
 .about .container .box-container .box h3 {
