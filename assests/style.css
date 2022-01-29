@@ -473,10 +473,10 @@ header .navbar li a:hover::before {
     flex-direction: column;
     flex-wrap: wrap;
     flex: 1 1 20rem;
-    background: rgb(255, 255, 255);
+    background: rgba(204, 176, 176, 0.788);
     margin-top: 3rem;
     border-radius: .5rem;
-    border-bottom: 3px solid #fdd214;
+    border-bottom: 3px solid #14fd3b;
     transition: .2s ease-out;
 }
 
@@ -1250,7 +1250,7 @@ form button:hover {
     min-height: 60vh;
     padding-top: 1rem;
     /* background: #17002c; */
-    background-image: linear-gradient(to top, #0f001e, #1e0042, #2a0068, #3c0086, #2f00af);
+    background-image: linear-gradient(to top, #b9711e, #6506da, #ac97cc, #f6f1fd, #2f00af);
 }
 
 
@@ -1258,7 +1258,7 @@ form button:hover {
 
 .footer .newsletter {
     width: 60%;
-    background-image: linear-gradient(to top, #3805c4, #3704c5, #1704c6, #0532c7, #0781c8);
+    background-image: linear-gradient(to top, #a79dc2, #56ecc7, #b4b1d1, #79278a, #d8e5ec);
     height: 18rem;
     position: absolute;
     top: -10rem;
