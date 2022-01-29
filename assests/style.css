@@ -21,7 +21,7 @@
 
 *::selection {
     background: var(--purple);
-    color: #fff;
+    color: rgb(247, 18, 18);
 }
 
 html {
@@ -44,7 +44,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 body {
-    background: #f7f7f7;
+    background: #f00606;
 }
 
 section {
@@ -77,13 +77,13 @@ header {
 }
 
 .sticky {
-    background: #fff;
+    background: rgb(255, 5, 5);
     padding: 2rem 20rem;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
 }
 
 header .logo {
-    color: #fff;
+    color: rgb(238, 17, 17);
     font-weight: 700;
     font-size: 3em;
     text-decoration: none;
@@ -196,7 +196,7 @@ header .navbar li a:hover::before {
         border-bottom: .4rem solid var(--yellow);
         /* background: #fff; */
         font-weight: 600;
-        color: #fff;
+        color: rgb(253, 19, 19);
     }
     header .navbar li a::before {
         display: none;
@@ -254,7 +254,7 @@ header .navbar li a:hover::before {
 
 .home .content .btn-container .btn {
     padding: 1rem 3rem;
-    background: #fff;
+    background: #f50707;
     color: rgb(80, 2, 133);
     border-radius: .3em;
     font-size: 2em;
@@ -523,7 +523,7 @@ header .navbar li a:hover::before {
 .projects .box-container .box .desc .btn {
     padding: 1rem 2rem;
     background: var(--purple);
-    color: rgb(255, 255, 255);
+    color: rgb(240, 13, 13);
     border-radius: .3em;
     font-size: 1.7em;
     width: 70%;
