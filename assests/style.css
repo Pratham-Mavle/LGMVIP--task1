@@ -196,7 +196,7 @@ header .navbar li a:hover::before {
         border-bottom: .4rem solid var(--yellow);
         /* background: #fff; */
         font-weight: 600;
-        color: rgb(253, 19, 19);
+        color: rgb(19, 253, 136);
     }
     header .navbar li a::before {
         display: none;
@@ -254,7 +254,7 @@ header .navbar li a:hover::before {
 
 .home .content .btn-container .btn {
     padding: 1rem 3rem;
-    background: #f50707;
+    background: #07f57e;
     color: rgb(80, 2, 133);
     border-radius: .3em;
     font-size: 2em;
@@ -523,7 +523,7 @@ header .navbar li a:hover::before {
 .projects .box-container .box .desc .btn {
     padding: 1rem 2rem;
     background: var(--purple);
-    color: rgb(240, 13, 13);
+    color: rgb(13, 240, 43);
     border-radius: .3em;
     font-size: 1.7em;
     width: 70%;
@@ -562,7 +562,7 @@ header .navbar li a:hover::before {
 /* pricing section starts */
 
 .pricing {
-    background: rgb(245, 0, 0);
+    background: rgb(0, 245, 123);
 }
 
 .pricing .box-container {
@@ -578,7 +578,7 @@ header .navbar li a:hover::before {
     flex-direction: column;
     flex-wrap: wrap;
     flex: 1 1 20rem;
-    background: rgb(253, 3, 3);
+    background: rgb(3, 253, 116);
     margin-top: 3rem;
     border-radius: .5rem;
     border-bottom: 4px solid var(--purple);
@@ -588,14 +588,14 @@ header .navbar li a:hover::before {
 
 .pricing .box-container .box:hover {
     transform: scale(1.05);
-    color: rgb(255, 14, 14);
+    color: rgb(14, 255, 106);
     background: var(--purple);
 }
 
 .pricing .box-container .box:hover .title *,
 .pricing .box-container .box:hover .title span::after,
 .pricing .box-container .box:hover .desc ul * {
-    color: rgb(253, 10, 10);
+    color: rgb(10, 253, 83);
 }
 
 .pricing .box-container .box .title {
@@ -909,7 +909,7 @@ span.swiper-pagination-bullet {
     padding: 2.7rem 1.2rem;
     font-size: 2rem;
     cursor: pointer;
-    color: rgb(252, 10, 10);
+    color: rgb(10, 252, 42);
     border-radius: .2rem;
     background-color: var(--purple);
     transition: .2s ease;
@@ -983,7 +983,7 @@ span.swiper-pagination-bullet {
     flex-direction: column;
     flex-wrap: wrap;
     flex: 1 1 20rem;
-    background: rgb(253, 4, 4);
+    background: rgb(4, 253, 25);
     margin-top: 3rem;
     border-radius: .5rem;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
