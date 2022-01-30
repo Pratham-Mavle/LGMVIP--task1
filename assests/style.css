@@ -1250,7 +1250,7 @@ form button:hover {
     min-height: 60vh;
     padding-top: 1rem;
     /* background: #17002c; */
-    background-image: linear-gradient(to top, #1eb94c, #06da34, #97cca7, #0cfa20, #00af3a);
+    background-image: linear-gradient(to top, #191a19, #393f3a, #3f4942, #242524, #383a39);
 }
 
 
@@ -1258,7 +1258,7 @@ form button:hover {
 
 .footer .newsletter {
     width: 60%;
-    background-image: linear-gradient(to top, #13eb25, #15e626, #04ff25, #3ddd1d, #06eb4b);
+    background-image: linear-gradient(to top, #0a0a0a, #1b1b1b, #131413, #141414, #0b0e0c);
     height: 18rem;
     position: absolute;
     top: -10rem;
