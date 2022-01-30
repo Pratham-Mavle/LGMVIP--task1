@@ -578,7 +578,7 @@ header .navbar li a:hover::before {
     flex-direction: column;
     flex-wrap: wrap;
     flex: 1 1 20rem;
-    background: rgb(3, 253, 116);
+    background: rgb(86, 97, 91);
     margin-top: 3rem;
     border-radius: .5rem;
     border-bottom: 4px solid var(--purple);
@@ -588,14 +588,14 @@ header .navbar li a:hover::before {
 
 .pricing .box-container .box:hover {
     transform: scale(1.05);
-    color: rgb(14, 255, 106);
+    color: rgb(150, 194, 167);
     background: var(--purple);
 }
 
 .pricing .box-container .box:hover .title *,
 .pricing .box-container .box:hover .title span::after,
 .pricing .box-container .box:hover .desc ul * {
-    color: rgb(10, 253, 83);
+    color: rgb(138, 179, 150);
 }
 
 .pricing .box-container .box .title {
@@ -838,7 +838,7 @@ span.swiper-pagination-bullet {
 }
 
 .team .container .card .image .social a:hover {
-    color: rgb(245, 9, 9);
+    color: rgb(117, 94, 94);
 }
 
 .team .container .card .image:hover .social {
