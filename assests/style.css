@@ -909,7 +909,7 @@ span.swiper-pagination-bullet {
     padding: 2.7rem 1.2rem;
     font-size: 2rem;
     cursor: pointer;
-    color: rgb(10, 252, 42);
+    color: rgb(186, 228, 192);
     border-radius: .2rem;
     background-color: var(--purple);
     transition: .2s ease;
@@ -983,7 +983,7 @@ span.swiper-pagination-bullet {
     flex-direction: column;
     flex-wrap: wrap;
     flex: 1 1 20rem;
-    background: rgb(4, 253, 25);
+    background: rgb(154, 189, 157);
     margin-top: 3rem;
     border-radius: .5rem;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
@@ -1088,7 +1088,7 @@ span.swiper-pagination-bullet {
 
 .contact .row .col {
     width: 50%;
-    background: rgb(5, 252, 137);
+    background: rgb(170, 209, 191);
 }
 
 #map {
@@ -1190,12 +1190,12 @@ form button {
     border-radius: .5rem;
     padding: 1.2rem 4rem;
     background: var(--purple);
-    box-shadow: 0px 5px 10px rgba(36, 243, 139, 0.6);
+    box-shadow: 0px 5px 10px rgba(196, 216, 206, 0.6);
     transition: 0.3s ease;
 }
 
 form button:hover {
-    background: #0d8602;
+    background: #b5b8b5;
 }
 
 @media(max-width:768px) {
